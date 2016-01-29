@@ -1,5 +1,3 @@
-package assignments;
-
 public class Node {
 	private Object o;
 	private Node n;
